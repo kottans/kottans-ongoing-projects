@@ -58,7 +58,6 @@ Possible tools to use:
 + set up own [mumble](http://www.mumble.com/) – good audio, but no video – needs app, link to server would be same, people would require some upfront work to join
 + [Ekiga](http://www.ekiga.org/)? But might take some effort to setup on Mac  
 + ? roll your own based on webRTC ?
-http://www.mumble.com/
 
 # How to help
 
