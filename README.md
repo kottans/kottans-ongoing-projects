@@ -59,3 +59,9 @@ Possible tools to use:
 + [Ekiga](http://www.ekiga.org/)? But might take some effort to setup on Mac  
 + ? roll your own based on webRTC ?
 http://www.mumble.com/
+
+# How to help
+
++ Go through open / frozen issues and see, what is of interest to you. You can indicate that with emoji thumbs-up reaction. If you willing to pick up the issue, write a corresponding comment.
++ Go through in progress issues with [help wanted](https://github.com/sudodoki/kottans-ongoing-projects/labels/help%20wanted) tag – it might require skills you possess.
++ Have great idea for kottans? [Tell us about it](https://github.com/sudodoki/kottans-ongoing-projects/issues/new). Or try [mailing us](kottans.org@gmail.com) if you are not sure whether idea will stick with us.
