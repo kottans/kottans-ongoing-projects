@@ -20,7 +20,7 @@ To indicate state of items through lifecycle, following tags can be used:
 + opened issue, [in consideration](https://github.com/sudodoki/kottans-ongoing-projects/labels/in%20consideration) tag – issue that moved on to the following stage, there's some interest / people offering to do it
 + opened issue, [in progress](https://github.com/sudodoki/kottans-ongoing-projects/labels/in%20progress) tag – issue that moved on to the following stage, there's some work done in that direction
 + closed issue, no 'lifecycle' tag – issue is done or closed because of due date
-+ closed issue, 'frozen' tag – not enough interest/manpower to take it up for time being – move to frozen.
++ closed issue, [frozen](https://github.com/sudodoki/kottans-ongoing-projects/issues?q=is%3Aopen+is%3Aissue+label%3Afrozen) tag – not enough interest/manpower to take it up for time being – move to frozen.
 
 #### How do things progress through these?
 
