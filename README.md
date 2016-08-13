@@ -57,8 +57,8 @@ Consider adding 'due date', 'qty of people needed', 'skills needed' fields.
 
 Items that are getting to the next upcoming retrospective are easy to figure out: everything that is 'in consideration' prior to the meeting will get in. Can assign Milestone to issues and use that filter to review things. Previous meetings items / decisions should be recorded in [Past retrospectives](past_retrospectives).
 
-Will be conducted in skype. To join the group [follow the link](https://join.skype.com/jwWS1iFFegGZ).
-It will be done every month, last saturday of the month at 19.00 unless noted otherwise.
+Will be conducted in skype. To join the group [follow the link](https://join.skype.com/jwWS1iFFegGZ).  
+It will be done every month, last Saturday of the month at 19.00 unless noted otherwise.  
 There's going to be assigned master of ceremony who is going to
 
 1. formulate agenda prior to the call based on items in corresponding Milestone
