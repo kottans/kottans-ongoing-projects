@@ -36,28 +36,35 @@ We would discuss issues on the [Monthly Meeting](#monthly-retrospective). Depend
 Proposal item might be generally classified into:
 + [Kottans Course](https://github.com/sudodoki/kottans-ongoing-projects/labels/kottans%20course). This would include proposal to run (new) course in (some/new) city.
 + [Kottans Event](https://github.com/sudodoki/kottans-ongoing-projects/labels/kottans%20event). Event under Kottans™ umbrella. Kottans hackathon, workshop, meetup, etc. Kottans should be invited, but event shouldn't be restricting to be kottans-exclusive (yet it may).
-+ [Other event](https://github.com/sudodoki/kottans-ongoing-projects/labels/other%20event). Yet it has to do something with open-source, charity and or other areas that kottans might be interested to help with. TODO: discuss, whether help with running something like [NodeSchool](https://nodeschool.io) can be placed here
++ [Other event](https://github.com/sudodoki/kottans-ongoing-projects/labels/other%20event). Yet it has to do something with open-source, charity and or other areas that kottans might be interested to help with.
 + [Kottans Improvement](https://github.com/sudodoki/kottans-ongoing-projects/labels/kottans%20improvement). Has to deal with something regarding our tools, workflow, chores, etc. 'Work on Site', 'Post on dou.ua', 'Print and distribute stickers' might be labeled under this.
 + [Kottans Project](https://github.com/sudodoki/kottans-ongoing-projects/labels/kottans%20project). Deals with things kottans build for greater good, yet our own. 'Create tool for registration', 'create automated tests for all Ruby homeworks', etc.
 + [Other Project](https://github.com/sudodoki/kottans-ongoing-projects/labels/other%20project). Invite kottans to hack on something, preferably open-source and something you are not making money off.
 
-#### Proposal Format
+### Proposal Format
 
-TODO: add issue template.
+So, typical issue should contain:
+  1. Subject (short sentence describing initiative).
+  2. Term/duration (when is it going to take place or how long it might last).
+  3. Keywords:
+    + Online/offline
+    + City
+    + Technologies
+  4. What do we propose and what do we need to reach the goal?
 Consider adding 'due date', 'qty of people needed', 'skills needed' fields.
 
 ## Monthly retrospective
 
-Items that are getting to the next upcoming retrospective are easy to figure out: everything that is 'in consideration' prior to the meeting will get in. Can assign Milestone to issues and use that filter to review things. Previous meetings items / decisions should be recorded in [Past retrospectives](PAST_RETROSPECTIVES.md).
+Items that are getting to the next upcoming retrospective are easy to figure out: everything that is 'in consideration' prior to the meeting will get in. Can assign Milestone to issues and use that filter to review things. Previous meetings items / decisions should be recorded in [Past retrospectives](past_retrospectives).
 
-### Technical side of things: TODO – discuss
+Will be conducted in skype. To join the group [follow the link](https://join.skype.com/jwWS1iFFegGZ).
+It will be done every month, last saturday of the month at 19.00 unless noted otherwise.
+There's going to be assigned master of ceremony who is going to
 
-Possible tools to use:
-+ skype – free for up to 300 users, can do screenshare, might create a 'join' link and place in readme, but generally, a chat will be hanging around (might just disable messages and only leave calls), needs invite / add – needs app
-+ Google Hangouts - free, but up to 10 people, can create a named group with permalink, can record calls directly to youtube – can do using browser, but might need plugin
-+ set up own [mumble](http://www.mumble.com/) – good audio, but no video – needs app, link to server would be same, people would require some upfront work to join
-+ [Ekiga](http://www.ekiga.org/)? But might take some effort to setup on Mac  
-+ ? roll your own based on webRTC ?
+1. formulate agenda prior to the call based on items in corresponding Milestone
+2. start the call
+3. go through items
+4. take notes and post them afterwards in [Past Retrospectives](past_retrospectives)
 
 # How to help
 
