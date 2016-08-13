@@ -7,7 +7,7 @@ This repo is dedicated to tracking
 
 ## How to make sense of things?
 
-You can be on the 'collaborators' side and use [waffle board](https://waffle.io/sudodoki/kottans-ongoing-projects/join). Or you can just go straight to the [big list of things](https://github.com/sudodoki/kottans-ongoing-projects/issues).
+You can be on the 'collaborators' side and use [waffle board](https://waffle.io/kottans/kottans-ongoing-projects/join). Or you can just go straight to the [big list of things](https://github.com/kottans/kottans-ongoing-projects/issues).
 
 Issues you will find there might be using following group of tags:
 + [Lifecycle](#lifecycle)
@@ -17,10 +17,10 @@ Issues you will find there might be using following group of tags:
 
 To indicate state of items through lifecycle, following tags can be used:
 + opened issue, no 'lifecycle' tag (those used in bullet points below) – proposed issue
-+ opened issue, [in consideration](https://github.com/sudodoki/kottans-ongoing-projects/labels/in%20consideration) tag – issue that moved on to the following stage, there's some interest / people offering to do it
-+ opened issue, [in progress](https://github.com/sudodoki/kottans-ongoing-projects/labels/in%20progress) tag – issue that moved on to the following stage, there's some work done in that direction
++ opened issue, [in consideration](https://github.com/kottans/kottans-ongoing-projects/labels/in%20consideration) tag – issue that moved on to the following stage, there's some interest / people offering to do it
++ opened issue, [in progress](https://github.com/kottans/kottans-ongoing-projects/labels/in%20progress) tag – issue that moved on to the following stage, there's some work done in that direction
 + closed issue, no 'lifecycle' tag – issue is done or closed because of due date
-+ closed issue, [frozen](https://github.com/sudodoki/kottans-ongoing-projects/issues?q=is%3Aopen+is%3Aissue+label%3Afrozen) tag – not enough interest/manpower to take it up for time being – move to frozen.
++ closed issue, [frozen](https://github.com/kottans/kottans-ongoing-projects/issues?q=is%3Aopen+is%3Aissue+label%3Afrozen) tag – not enough interest/manpower to take it up for time being – move to frozen.
 
 #### How do things progress through these?
 
@@ -34,12 +34,12 @@ We would discuss issues on the [Monthly Meeting](#monthly-retrospective). Depend
 ### Type of Item
 
 Proposal item might be generally classified into:
-+ [Kottans Course](https://github.com/sudodoki/kottans-ongoing-projects/labels/kottans%20course). This would include proposal to run (new) course in (some/new) city.
-+ [Kottans Event](https://github.com/sudodoki/kottans-ongoing-projects/labels/kottans%20event). Event under Kottans™ umbrella. Kottans hackathon, workshop, meetup, etc. Kottans should be invited, but event shouldn't be restricting to be kottans-exclusive (yet it may).
-+ [Other event](https://github.com/sudodoki/kottans-ongoing-projects/labels/other%20event). Yet it has to do something with open-source, charity and or other areas that kottans might be interested to help with.
-+ [Kottans Improvement](https://github.com/sudodoki/kottans-ongoing-projects/labels/kottans%20improvement). Has to deal with something regarding our tools, workflow, chores, etc. 'Work on Site', 'Post on dou.ua', 'Print and distribute stickers' might be labeled under this.
-+ [Kottans Project](https://github.com/sudodoki/kottans-ongoing-projects/labels/kottans%20project). Deals with things kottans build for greater good, yet our own. 'Create tool for registration', 'create automated tests for all Ruby homeworks', etc.
-+ [Other Project](https://github.com/sudodoki/kottans-ongoing-projects/labels/other%20project). Invite kottans to hack on something, preferably open-source and something you are not making money off.
++ [Kottans Course](https://github.com/kottans/kottans-ongoing-projects/labels/kottans%20course). This would include proposal to run (new) course in (some/new) city.
++ [Kottans Event](https://github.com/kottans/kottans-ongoing-projects/labels/kottans%20event). Event under Kottans™ umbrella. Kottans hackathon, workshop, meetup, etc. Kottans should be invited, but event shouldn't be restricting to be kottans-exclusive (yet it may).
++ [Other event](https://github.com/kottans/kottans-ongoing-projects/labels/other%20event). Yet it has to do something with open-source, charity and or other areas that kottans might be interested to help with.
++ [Kottans Improvement](https://github.com/kottans/kottans-ongoing-projects/labels/kottans%20improvement). Has to deal with something regarding our tools, workflow, chores, etc. 'Work on Site', 'Post on dou.ua', 'Print and distribute stickers' might be labeled under this.
++ [Kottans Project](https://github.com/kottans/kottans-ongoing-projects/labels/kottans%20project). Deals with things kottans build for greater good, yet our own. 'Create tool for registration', 'create automated tests for all Ruby homeworks', etc.
++ [Other Project](https://github.com/kottans/kottans-ongoing-projects/labels/other%20project). Invite kottans to hack on something, preferably open-source and something you are not making money off.
 
 ### Proposal Format
 
@@ -69,5 +69,5 @@ There's going to be assigned master of ceremony who is going to
 # How to help
 
 + Go through open / frozen issues and see, what is of interest to you. You can indicate that with emoji thumbs-up reaction. If you willing to pick up the issue, write a corresponding comment.
-+ Go through in progress issues with [help wanted](https://github.com/sudodoki/kottans-ongoing-projects/labels/help%20wanted) tag – it might require skills you possess.
-+ Have great idea for kottans? [Tell us about it](https://github.com/sudodoki/kottans-ongoing-projects/issues/new). Or try [mailing us](kottans.org@gmail.com) if you are not sure whether idea will stick with us.
++ Go through in progress issues with [help wanted](https://github.com/kottans/kottans-ongoing-projects/labels/help%20wanted) tag – it might require skills you possess.
++ Have great idea for kottans? [Tell us about it](https://github.com/kottans/kottans-ongoing-projects/issues/new). Or try [mailing us](kottans.org@gmail.com) if you are not sure whether idea will stick with us.
