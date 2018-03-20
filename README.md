@@ -7,29 +7,9 @@ This repo is dedicated to tracking
 
 ## How to make sense of things?
 
-You can be on the 'collaborators' side and use [waffle board](https://waffle.io/kottans/kottans-ongoing-projects/join). Or you can just go straight to the [big list of things](https://github.com/kottans/kottans-ongoing-projects/issues).
+You can just go straight to the [big list of things](https://github.com/kottans/kottans-ongoing-projects/issues). Issues (or proposals) there might be using tags to indicate type of issue.
 
-Issues you will find there might be using following group of tags:
-+ [Lifecycle](#lifecycle)
-+ [Type of Item](#type-of-item)
-
-### Lifecycle
-
-To indicate state of items through lifecycle, following tags can be used:
-+ opened issue, no 'lifecycle' tag (those used in bullet points below) – proposed issue
-+ opened issue, [in consideration](https://github.com/kottans/kottans-ongoing-projects/labels/in%20consideration) tag – issue that moved on to the following stage, there's some interest / people offering to do it
-+ opened issue, [in progress](https://github.com/kottans/kottans-ongoing-projects/labels/in%20progress) tag – issue that moved on to the following stage, there's some work done in that direction
-+ closed issue, no 'lifecycle' tag – issue is done or closed because of due date
-+ closed issue, [frozen](https://github.com/kottans/kottans-ongoing-projects/issues?q=is%3Aopen+is%3Aissue+label%3Afrozen) tag – not enough interest/manpower to take it up for time being – move to frozen.
-
-#### How do things progress through these?
-
-We would discuss issues on the [Monthly Meeting](#monthly-retrospective). Depending on the issue type, following things might happen:
-
-+ Proposed issue. Not even in 'agenda' for the monthly meeting, unless it hangs in proposed more than 2 months. In that case might be moved to frozen or just closed if it's an invitation to something.
-+ In consideration. After further discussion on Monthly meeting, might advance to 'in progress' or degrade to proposed issue / frozen
-+ In progress. Work in progress. Might get into done or frozen state from here
-+ Frozen issue might get back to proposed / in consideration stage
+If you have something you want to share – create a proposal. If you see proposal you can help with – leave a comment and collaborate.
 
 ### Type of Item
 
@@ -53,21 +33,8 @@ So, typical issue should contain:
   4. What do we propose and what do we need to reach the goal?
 Consider adding 'due date', 'qty of people needed', 'skills needed' fields.
 
-## Monthly retrospective
-
-Items that are getting to the next upcoming retrospective are easy to figure out: everything that is 'in consideration' prior to the meeting will get in. Can assign Milestone to issues and use that filter to review things. Previous meetings items / decisions should be recorded in [Past retrospectives](past_retrospectives).
-
-Will be conducted in skype. To join the group [follow the link](https://join.skype.com/jwWS1iFFegGZ).  
-It will be done every month, last Saturday of the month at 19.00 unless noted otherwise.  
-There's going to be assigned master of ceremony who is going to
-
-1. formulate agenda prior to the call based on items in corresponding Milestone
-2. start the call
-3. go through items
-4. take notes and post them afterwards in [Past Retrospectives](past_retrospectives)
-
 # How to help
 
-+ Go through open / frozen issues and see, what is of interest to you. You can indicate that with emoji thumbs-up reaction. If you willing to pick up the issue, write a corresponding comment.
++ Go through open / stuck issues and see, what is of interest to you. You can indicate that with emoji thumbs-up reaction. If you willing to pick up the issue, write a corresponding comment.
 + Go through in progress issues with [help wanted](https://github.com/kottans/kottans-ongoing-projects/labels/help%20wanted) tag – it might require skills you possess.
 + Have great idea for kottans? [Tell us about it](https://github.com/kottans/kottans-ongoing-projects/issues/new). Or try [mailing us](mailto:kottans.org@gmail.com) if you are not sure whether idea will stick with us.
