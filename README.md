@@ -9,7 +9,7 @@ This repo is dedicated to tracking
 
 You can just go straight to the [big list of things](https://github.com/kottans/kottans-ongoing-projects/issues). Issues (or proposals) there might be using tags to indicate type of issue.
 
-If you have something you want to sure – create a proposal. If you see proposal you can help with – leave a comment and collaborate.
+If you have something you want to share – create a proposal. If you see proposal you can help with – leave a comment and collaborate.
 
 ### Type of Item
 
