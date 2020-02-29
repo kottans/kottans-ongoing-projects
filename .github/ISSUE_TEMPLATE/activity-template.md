@@ -9,7 +9,9 @@ assignees: ''
 
 **This issue is about**
 + [ ] Course
-+ [ ] Event
++ [ ] Conference
++ [ ] Workshop
++ [ ] Meetup
 + [ ] Project
 + [ ] Other
 
